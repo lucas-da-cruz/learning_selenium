@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb721cf-7961-4341-af92-a2565070d4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../teste_de_sistemas_selenium/src/test/br/com/usuario/NovoUsuarioPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../teste_de_sistemas_selenium/src/test/br/com/usuario/UsuarioPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leiloes.db.log" beforeDir="false" afterPath="$PROJECT_DIR$/leiloes.db.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste_de_sistemas_selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../teste_de_sistemas_selenium/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste_de_sistemas_selenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../teste_de_sistemas_selenium/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste_de_sistemas_selenium/out/production/teste_de_sistemas_selenium/test/br/com/UsuarioSystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../teste_de_sistemas_selenium/out/production/teste_de_sistemas_selenium/test/br/com/UsuarioSystemTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste_de_sistemas_selenium/src/test/br/com/UsuarioSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../teste_de_sistemas_selenium/src/test/br/com/UsuarioSystemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../teste_de_sistemas_selenium/src/test/br/teste.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

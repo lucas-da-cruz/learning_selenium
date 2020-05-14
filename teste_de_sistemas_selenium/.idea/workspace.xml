@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../leiloes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/br/com/usuario/NovoUsuarioPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/br/com/usuario/UsuarioPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leiloes/target/jetty-temp/jsp/org/apache/jsp/WEB_002dINF/jsp/teste/index_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/CriadorDeCenarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/URLDaAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/lance/DetalhesDoLeilaoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/lance/LanceSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/leilao/LeiloesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/leilao/LeiloesSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/leilao/NovoLeilaoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/br/com/usuario/UsuarioSystemTestEncapsuladed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leiloes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leiloes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leiloes/leiloes.db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/../leiloes/leiloes.db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leiloes/leiloes.db.log" beforeDir="false" afterPath="$PROJECT_DIR$/../leiloes/leiloes.db.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leiloes/leiloes.db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../leiloes/leiloes.db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leiloes/leiloes.db.script" beforeDir="false" afterPath="$PROJECT_DIR$/../leiloes/leiloes.db.script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leiloes/target/jetty-temp/jsp/org/apache/jsp/WEB_002dINF/jsp/lance/novoLance_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leiloes/target/jetty-temp/jsp/org/apache/jsp/WEB_002dINF/jsp/lance/novoLance_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leiloes/target/jetty-temp/jsp/org/apache/jsp/WEB_002dINF/jsp/usuario/edit_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leiloes/target/jetty-temp/jsp/org/apache/jsp/WEB_002dINF/jsp/usuario/edit_jsp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teste_de_sistemas_selenium/test/br/com/UsuarioSystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teste_de_sistemas_selenium/test/br/com/UsuarioSystemTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/br/com/UsuarioSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/br/com/UsuarioSystemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/br/teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teste_de_sistemas_selenium/test/br/com/UsuarioSystemTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teste_de_sistemas_selenium/test/br/com/usuario/NovoUsuarioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teste_de_sistemas_selenium/test/br/com/usuario/NovoUsuarioPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teste_de_sistemas_selenium/test/br/com/usuario/UsuarioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teste_de_sistemas_selenium/test/br/com/usuario/UsuarioPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/br/com/UsuarioSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/br/com/usuario/UsuarioSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/br/com/usuario/NovoUsuarioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/br/com/usuario/NovoUsuarioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/br/com/usuario/UsuarioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/br/com/usuario/UsuarioPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +92,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1bmLfRHJxV6Bb7AZtj9BSj2uBOY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -89,6 +104,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -113,7 +129,7 @@
       <recent name="D:\Projetos_desenvolvimento\JAVA_Teste\teste_de_sistemas_selenium\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UsuarioSystemTest.testaInserirUsuarioComCodigoEncapsulado">
+  <component name="RunManager" selected="JUnit.LanceSystemTest.deveFazerUmLance">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -161,36 +177,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsuarioSystemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LanceSystemTest.deveFazerUmLance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="teste_de_sistemas_selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.br.com.*" />
+          <option name="PATTERN" value="test.br.com.lance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.br.com" />
-      <option name="MAIN_CLASS_NAME" value="test.br.com.UsuarioSystemTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsuarioSystemTest.testaInserirUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="teste_de_sistemas_selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.br.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.br.com" />
-      <option name="MAIN_CLASS_NAME" value="test.br.com.UsuarioSystemTest" />
-      <option name="METHOD_NAME" value="testaInserirUsuario" />
+      <option name="PACKAGE_NAME" value="test.br.com.lance" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.lance.LanceSystemTest" />
+      <option name="METHOD_NAME" value="deveFazerUmLance" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -200,57 +197,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsuarioSystemTest.testaInserirUsuarioComCodigoEncapsulado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeiloesSystemTest.deveCadastrarUmLeilao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="teste_de_sistemas_selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.br.com.*" />
+          <option name="PATTERN" value="test.br.com.leilao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.br.com" />
-      <option name="MAIN_CLASS_NAME" value="test.br.com.UsuarioSystemTest" />
+      <option name="PACKAGE_NAME" value="test.br.com.leilao" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.leilao.LeiloesSystemTest" />
+      <option name="METHOD_NAME" value="deveCadastrarUmLeilao" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeiloesSystemTest.testaLeilaoSemValorInicial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste_de_sistemas_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.leilao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.leilao" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.leilao.LeiloesSystemTest" />
+      <option name="METHOD_NAME" value="testaLeilaoSemValorInicial" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioSystemTestEncapsuladed.deveEditarUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste_de_sistemas_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.usuario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.usuario" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.usuario.UsuarioSystemTestEncapsuladed" />
+      <option name="METHOD_NAME" value="deveEditarUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioSystemTestEncapsuladed.testaInserirUsuarioComCodigoEncapsulado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste_de_sistemas_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.usuario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.usuario" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.usuario.UsuarioSystemTestEncapsuladed" />
       <option name="METHOD_NAME" value="testaInserirUsuarioComCodigoEncapsulado" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsuarioSystemTest.testaInserirUsuarioDeManeiraLocal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="teste_de_sistemas_selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.br.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.br.com" />
-      <option name="MAIN_CLASS_NAME" value="test.br.com.UsuarioSystemTest" />
-      <option name="METHOD_NAME" value="testaInserirUsuarioDeManeiraLocal" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsuarioSystemTest.testaInserirUsuarioSemNome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="teste_de_sistemas_selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.br.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.br.com" />
-      <option name="MAIN_CLASS_NAME" value="test.br.com.UsuarioSystemTest" />
-      <option name="METHOD_NAME" value="testaInserirUsuarioSemNome" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -293,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UsuarioSystemTest.testaInserirUsuarioComCodigoEncapsulado" />
-        <item itemvalue="JUnit.UsuarioSystemTest" />
-        <item itemvalue="JUnit.UsuarioSystemTest.testaInserirUsuario" />
-        <item itemvalue="JUnit.UsuarioSystemTest.testaInserirUsuarioDeManeiraLocal" />
-        <item itemvalue="JUnit.UsuarioSystemTest.testaInserirUsuarioSemNome" />
+        <item itemvalue="JUnit.LanceSystemTest.deveFazerUmLance" />
+        <item itemvalue="JUnit.UsuarioSystemTestEncapsuladed.deveEditarUsuario" />
+        <item itemvalue="JUnit.LeiloesSystemTest.testaLeilaoSemValorInicial" />
+        <item itemvalue="JUnit.LeiloesSystemTest.deveCadastrarUmLeilao" />
+        <item itemvalue="JUnit.UsuarioSystemTestEncapsuladed.testaInserirUsuarioComCodigoEncapsulado" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +349,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
@@ -344,26 +362,26 @@
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589325248598" />
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589249676981" />
-    <state width="1323" height="79" key="GridCell.Tab.0.bottom" timestamp="1589333321104">
+    <state width="473" height="83" key="GridCell.Tab.0.bottom" timestamp="1589420006900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="79" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589333321104" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589317466411" />
-    <state width="1323" height="79" key="GridCell.Tab.0.center" timestamp="1589333321103">
+    <state width="473" height="83" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589420006900" />
+    <state width="1323" height="55" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589404114240" />
+    <state width="473" height="83" key="GridCell.Tab.0.center" timestamp="1589420006900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="79" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589333321103" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589317466411" />
-    <state width="1323" height="79" key="GridCell.Tab.0.left" timestamp="1589333321103">
+    <state width="473" height="83" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589420006900" />
+    <state width="1323" height="55" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589404114240" />
+    <state width="473" height="83" key="GridCell.Tab.0.left" timestamp="1589420006885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="79" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589333321103" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589317466411" />
-    <state width="1323" height="79" key="GridCell.Tab.0.right" timestamp="1589333321104">
+    <state width="473" height="83" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589420006885" />
+    <state width="1323" height="55" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589404114240" />
+    <state width="473" height="83" key="GridCell.Tab.0.right" timestamp="1589420006900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="79" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589333321104" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589317466411" />
+    <state width="473" height="83" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1589420006900" />
+    <state width="1323" height="55" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589404114240" />
     <state x="484" y="64" key="NewModule_or_Project.wizard" timestamp="1589249679815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
